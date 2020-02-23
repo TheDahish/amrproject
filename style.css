@@ -1,0 +1,9 @@
+.scalb{
+	width: 450px;
+	height: 300px;
+	transition: all 1s;
+}
+.scalb:hover{
+	transform: scale(2) translateY(-50px);
+	/*transform: scale(2);*/
+}
